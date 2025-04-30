@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Mage Portals
+## Notes: Custom teleport/portal bar for mages
+## Author: azra
+## Version: 1.0
+## SavedVariablesPerCharacter: MagePortalsSaved
+MagePortals.lua
